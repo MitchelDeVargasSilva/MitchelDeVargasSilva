@@ -1,74 +1,68 @@
 <h1 align="center">Olá, eu sou Mitchel Vargas 👋</h1>
 
 <h3 align="center">
-Desenvolvedor de Software | Especialista em ERP | Delphi • Java • PHP • Golang
+Desenvolvedor de Software | ERP Developer | Delphi • Java • PHP • Golang
 </h3>
+
+<p align="center">
+Desenvolvedor apaixonado por tecnologia, sistemas empresariais e desenvolvimento de soluções de alta qualidade.
+</p>
+
+---
+
 # 🚀 Sobre mim
 
 Sou Desenvolvedor de Software com **5 anos de experiência em desenvolvimento de sistemas ERP**, atuando na criação, manutenção e evolução de soluções empresariais.
 
-Tenho experiência no desenvolvimento de aplicações desktop, web e APIs, sempre buscando escrever código limpo, organizado e de fácil manutenção.
+Tenho experiência no desenvolvimento de aplicações **Desktop**, **Web** e **APIs REST**, sempre buscando escrever código limpo, organizado e escalável.
 
-Atualmente estou expandindo meus conhecimentos em **Java** e **Golang**, focando em desenvolvimento de APIs, microsserviços e aplicações de alta performance.
+Atualmente estou aprofundando meus conhecimentos em **Java** e **Golang**, com foco em desenvolvimento de APIs, microsserviços e arquitetura de software.
 
 ---
 
 # 👨‍💻 Tecnologias
 
-### Backend
-- Delphi
-- Java  
-- PHP
-- CodeIgniter 4
-- Golang
-- REST API
+| Backend | Frontend | Banco de Dados |
+|---------|----------|----------------|
+| Delphi | HTML5 | Firebird |
+| Java | CSS3 | MySQL |
+| PHP | JavaScript | SQLite |
+| CodeIgniter 4 | Bootstrap | |
+| Golang | | REST API |
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-### Banco de Dados
-- Firebird
-- MySQL
-- SQLite
 ### Ferramentas
-- Git
-- GitHub
-- SVN (Tortoise)
-- Postman
-- VS Code
-- Delphi 12
+
+| Desenvolvimento | Versionamento |
+|-----------------|---------------|
+| Delphi 12 | Git |
+| VS Code | GitHub |
+| Postman | SVN (Tortoise) |
+
 ---
 
 # 💼 Experiência
 
-✔ Desenvolvimento de Sistemas ERP
+- ✔ Desenvolvimento de Sistemas ERP
+- ✔ Desenvolvimento Desktop com Delphi
+- ✔ Desenvolvimento Web com PHP
+- ✔ Framework CodeIgniter 4
+- ✔ Desenvolvimento de APIs REST
+- ✔ Integração entre sistemas
+- ✔ Banco de Dados Firebird, MySQL e SQLite
+- ✔ Correção de Bugs
+- ✔ Refatoração de Código
+- ✔ Criação de Novas Funcionalidades
+- ✔ Versionamento com Git e SVN
 
-✔ Sistemas Desktop em Delphi
-
-✔ Desenvolvimento Web com PHP
-
-✔ Framework CodeIgniter 4
-
-✔ Integração com APIs REST
-
-✔ Correção de Bugs
-
-✔ Refatoração de Código
-
-✔ Criação de Novas Funcionalidades
-
-✔ Versionamento com Git e SVN
+---
 
 # 📈 Estatísticas
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -102,6 +96,36 @@ Atualmente estou expandindo meus conhecimentos em **Java** e **Golang**, focando
 
 </p>
 
-# 🌎 Onde me encontrar
-💼 LinkedIn: https://www.linkedin.com/in/mitchel-de-vargas-silva-735911146/
+---
 
+# 🌎 Conecte-se comigo
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mitchel-de-vargas-silva-735911146/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Áreas de Interesse
+
+- 💼 Sistemas ERP
+- 🌐 Desenvolvimento Web
+- ⚙️ APIs REST
+- ☕ Java
+- 🐹 Golang
+- 🖥️ Delphi
+- 🗄️ Banco de Dados
+- ☁️ Arquitetura de Software
+- 🚀 Microsserviços
+
+---
+
+<p align="center">
+
+**"Código limpo, soluções eficientes e aprendizado contínuo."**
+
+</p>
