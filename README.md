@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Mitchel Vargas 👋</h1>
 
 <h3 align="center">
-Desenvolvedor de Software | Especialista em ERP | Delphi • PHP • Golang
+Desenvolvedor de Software | Especialista em ERP | Delphi • Java • PHP • Golang
 </h3>
 # 🚀 Sobre mim
 
@@ -9,54 +9,37 @@ Sou Desenvolvedor de Software com **5 anos de experiência em desenvolvimento de
 
 Tenho experiência no desenvolvimento de aplicações desktop, web e APIs, sempre buscando escrever código limpo, organizado e de fácil manutenção.
 
-Atualmente estou expandindo meus conhecimentos em **Golang**, focando em desenvolvimento de APIs, microsserviços e aplicações de alta performance.
+Atualmente estou expandindo meus conhecimentos em **Java** e **Golang**, focando em desenvolvimento de APIs, microsserviços e aplicações de alta performance.
 
 ---
 
 # 👨‍💻 Tecnologias
 
 ### Backend
-
 - Delphi
+- Java  
 - PHP
 - CodeIgniter 4
 - Golang
 - REST API
 
 ### Frontend
-
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
 ### Banco de Dados
-
 - Firebird
 - MySQL
 - SQLite
-
 ### Ferramentas
-
 - Git
 - GitHub
+- SVN (Tortoise)
 - Postman
 - VS Code
 - Delphi 12
-- Lazarus
-
----
-
-# 📚 Atualmente estudando
-
-- Golang
-- Arquitetura de Software
-- Clean Code
-- APIs REST
-- Microsserviços
-- Docker
-- Boas práticas de desenvolvimento
-
 ---
 
 # 💼 Experiência
@@ -71,42 +54,13 @@ Atualmente estou expandindo meus conhecimentos em **Golang**, focando em desenvo
 
 ✔ Integração com APIs REST
 
-✔ Banco de Dados
-
 ✔ Correção de Bugs
 
 ✔ Refatoração de Código
 
 ✔ Criação de Novas Funcionalidades
 
-✔ Versionamento com Git
-
----
-
-# 🚀 Projetos
-
-Atualmente desenvolvo projetos voltados para:
-
-- Sistemas ERP
-- Sistemas Administrativos
-- Sistemas Imobiliários
-- Sistemas para Revendas de Veículos
-- APIs REST
-- Landing Pages
-- Dashboards
-- Automação de Processos
-
----
-
-# 🎯 Objetivos
-
-- Compartilhar conhecimento
-- Criar projetos Open Source
-- Evoluir continuamente como Desenvolvedor
-- Aprender novas tecnologias
-- Contribuir com a comunidade
-
----
+✔ Versionamento com Git e SVN
 
 # 📈 Estatísticas
 
@@ -148,28 +102,6 @@ Atualmente desenvolvo projetos voltados para:
 
 </p>
 
----
-
 # 🌎 Onde me encontrar
+💼 LinkedIn: https://www.linkedin.com/in/mitchel-de-vargas-silva-735911146/
 
-📧 Email: seuemail@email.com
-
-💼 LinkedIn: https://linkedin.com/in/seuusuario
-
-🌐 Portfólio: https://seusite.com.br
-
----
-
-# 💡 Frase
-
-> "A tecnologia move o mundo. O código transforma ideias em realidade."
-
----
-
-<div align="center">
-
-### Obrigado pela visita! 😄
-
-⭐ Não esqueça de conferir meus projetos.
-
-</div>
