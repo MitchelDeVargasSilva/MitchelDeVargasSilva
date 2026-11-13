@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Mitchel Vargas 👋</h1>
 
 <h3 align="center">
-Desenvolvedor de Software | ERP Developer | Delphi • Java • PHP • Golang
+Desenvolvedor de Software | ERP Developer | Delphi • PHP • Golang
 </h3>
 
 <p align="center">
@@ -12,14 +12,13 @@ Sou Desenvolvedor de Software com **5 anos de experiência em desenvolvimento de
 
 Tenho experiência no desenvolvimento de aplicações **Desktop**, **Web** e **APIs REST**, sempre buscando escrever código limpo, organizado e escalável.
 
-Atualmente estou aprofundando meus conhecimentos em **Java** e **Golang**, com foco em desenvolvimento de APIs, microsserviços e arquitetura de software.
+Atualmente estou aprofundando meus conhecimentos em **PHP** **Golang**, com foco em desenvolvimento de APIs, microsserviços e arquitetura de software.
 # 👨‍💻 Tecnologias
 
 | Backend | Frontend | Banco de Dados |
 |---------|----------|----------------|
 | Delphi | HTML5 | Firebird |
 | Java | CSS3 | MySQL |
-| PHP | JavaScript | SQLite |
 | CodeIgniter 4 | Bootstrap | |
 | Golang | | REST API |
 
